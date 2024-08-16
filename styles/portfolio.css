@@ -1,0 +1,27 @@
+/* common shared style */
+.text-primary {
+  color: #fd6e0a;
+}
+/* nav related style */
+body {
+  font-family: "loto", "sans-serif";
+  font-family: "Open Sans", sans-serif;
+}
+nav {
+  display: flex;
+}
+.nav-tittle {
+  color: #181818;
+  font-size: 45px;
+  font-weight: 800;
+}
+nav > ul {
+  display: flex;
+}
+nav li {
+  list-style: none;
+  margin-right: 50px;
+}
+nav a {
+  text-decoration: none;
+}
